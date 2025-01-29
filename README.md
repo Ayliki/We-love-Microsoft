@@ -2,6 +2,8 @@
 
 A **React Native** mobile application for a **music academy**, allowing users to **register**, **choose subjects**, and **manage their profiles**. The app integrates **Firebase Authentication** and follows a **modern UI design**.
 
+---
+
 ## 🚀 Features  
 
 - 🎨 **Modern UI** – Figma-inspired design  
@@ -10,11 +12,15 @@ A **React Native** mobile application for a **music academy**, allowing users to
 - 📱 **Fully Responsive** – Works on both **iOS & Android**  
 - 🎚️ **Styled Picker Component** – Custom dropdown for selecting subjects  
 
+---
+
 ## 📷 Screenshots  
 
 | SignUp Screen | Picker Dropdown |
 |--------------|----------------|
 | ![Signup Screenshot](./assets/screenshots/signup.png) | ![Picker Screenshot](./assets/screenshots/picker.png) |
+
+---
 
 ## ⚙️ Tech Stack  
 
@@ -24,42 +30,31 @@ A **React Native** mobile application for a **music academy**, allowing users to
 - **Firebase Authentication**  
 - **RN Picker Select** (Custom dropdowns)  
 
-## 📂 Project Structure  
 
-📦 music-academy
-┣ 📂 assets
-┃ ┣ 📂 images
-┃ ┃ ┣ AK-logo.png
-┃ ┃ ┣ header-bg.png
-┃ ┃ ┗ ...
-┣ 📂 src
-┃ ┣ 📂 components
-┃ ┣ 📂 navigation
-┃ ┣ 📂 screens
-┃ ┃ ┣ SignUpScreen.tsx
-┃ ┃ ┣ LoginScreen.tsx
-┃ ┃ ┣ HomeScreen.tsx
-┃ ┣ 📂 services
-┃ ┣ App.tsx
-┃ ┗ ...
-┣ .gitignore
-┣ package.json
-┗ README.md
-
+---
 
 ## 🛠 Setup & Installation  
 
-1️⃣ **Clone the repository**  
-git clone https://github.com/your-username/music-academy.git
+### 1️⃣ Clone the repository  
+
+```sh
+git clone https://github.com/your-username/music-academy.git  
 cd music-academy
+```
 
 2️⃣ Install dependencies
+```sh
 npm install
+```
 
 3️⃣ Start the app
+```sh
 npm start
+```
 OR
+```sh
 expo start
+```
 
 4️⃣ Run on emulator/device
 
