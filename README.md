@@ -52,7 +52,7 @@ expo start
 
 #### Press `i` to run the project on an iOS emulator/device.
 
-###🔑 Firebase Setup
+### 🔑 Firebase Setup
 
 #### 1.Go to Firebase Console
 #### 2.Create a project & enable Authentication
