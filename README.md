@@ -50,7 +50,6 @@ A **React Native** mobile application for a **music academy**, allowing users to
 ## 🛠 Setup & Installation  
 
 1️⃣ **Clone the repository**  
-```sh
 git clone https://github.com/your-username/music-academy.git
 cd music-academy
 
