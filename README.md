@@ -6,19 +6,11 @@ A **React Native** mobile application for a **music academy**, allowing users to
 
 ## 🚀 Features  
 
-- 🎨 **Modern UI** – Figma-inspired design  
+- 🎨 **Modern UI** 
 - 🔥 **Firebase Authentication** – Secure login & signup  
 - 🎭 **Course Selection** – Users can choose from various music subjects  
 - 📱 **Fully Responsive** – Works on both **iOS & Android**  
 - 🎚️ **Styled Picker Component** – Custom dropdown for selecting subjects  
-
----
-
-## 📷 Screenshots  
-
-| SignUp Screen | Picker Dropdown |
-|--------------|----------------|
-| ![Signup Screenshot](./assets/screenshots/signup.png) | ![Picker Screenshot](./assets/screenshots/picker.png) |
 
 ---
 
@@ -42,12 +34,12 @@ git clone https://github.com/your-username/music-academy.git
 cd music-academy
 ```
 
-2️⃣ Install dependencies
+###2️⃣ Install dependencies
 ```sh
 npm install
 ```
 
-3️⃣ Start the app
+### 3️⃣ Start the app
 ```sh
 npm start
 ```
@@ -56,13 +48,14 @@ OR
 expo start
 ```
 
-4️⃣ Run on emulator/device
+### 4️⃣ Run on emulator/device
 
-Press i for iOS
-Press a for Android
-🔑 Firebase Setup
-Go to Firebase Console
-Create a project & enable Authentication
-Download google-services.json & GoogleService-Info.plist
-Place them in src/services/
-Update firebaseConfig.ts
+#### Press `i` to run the project on an iOS emulator/device.
+
+###🔑 Firebase Setup
+
+#### 1.Go to Firebase Console
+#### 2.Create a project & enable Authentication
+#### 3.Download google-services.json & GoogleService-Info.plist
+#### 4.Place them in src/services/
+#### 5.Update firebaseConfig.ts
